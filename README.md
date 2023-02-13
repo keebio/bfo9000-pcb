@@ -6,6 +6,8 @@ These files are provided as-is, and I won't be providing any updates to them.
 
 If anyone wants to clean things up or make fixes, go ahead and submit a PR. Thanks!
 
+The plate files can be found here: https://github.com/keebio/bfo-9000-case
+
 ## License
 
 These files are released under the MIT License.
