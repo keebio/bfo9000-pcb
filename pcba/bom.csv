@@ -1,0 +1,5 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"D_A1, D_A2, D_A3, D_A4, D_A5, D_A6, D_A7, D_A8, D_A9, D_B1, D_B2, D_B3, D_B4, D_B5, D_B6, D_B7, D_B8, D_B9, D_C1, D_C2, D_C3, D_C4, D_C5, D_C6, D_C7, D_C8, D_C9, D_D1, D_D2, D_D3, D_D4, D_D5, D_D6, D_D7, D_D8, D_D9, D_E1, D_E2, D_E3, D_E4, D_E5, D_E6, D_E7, D_E8, D_E9, D_F1, D_F2, D_F3, D_F4, D_F5, D_F6, D_F7, D_F8, D_F9",Diode-Hybrid-Back,54,D,C81598
+"R1, R2",R_0603,2,4.7k,C23162
+SW_RESET1,SW_SPST_TL3342,1,Reset,C318884
+"USB1, USB2",HRO-TYPE-C-31-M-12-Assembly,2,HRO-TYPE-C-31-M-12,C2997435
